@@ -23,7 +23,7 @@ config.js
 ```
 export default {
     JWT_SECRET : "<secret>",
-    EMAIL: "steve.franecki@ethereal.email", // testing email & password
+    EMAIL: "jai4337@ethereal.email", // testing email & password
     PASSWORD : "sMf46xCzrvdrxvuagc",
     ATLAS_URI: "<MONGODB_ATLAS_URI>"
 }
@@ -33,6 +33,3 @@ export default {
 
 Now, create all these variables in the project and make sure you set ATLAS_URI variable.
 Otherwise, the project will not work.
-
-Learn More about this project from the
-[ - Daily Tuition](https://www.youtube.com/c/@dailytuition) Youtube Channel.
